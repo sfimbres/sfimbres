@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sfimbres
+Enterprise Application Software Engineer @ NASA Jet Propulsion Laboratory 🚀
 
 <!---
 sfimbres/sfimbres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
